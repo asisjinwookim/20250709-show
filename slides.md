@@ -853,6 +853,61 @@ feast ui --port 5051
 * **피처 사용** 이력 추적
 
 ---
+layout: two-cols
+---
+
+# 웹 애플리케이션
+
+### DVC 웹앱
+[🔗 DVC App](https://github.com/studyteams/20250709-dvc-app/blob/main/README.md)
+
+<img src="https://private-user-images.githubusercontent.com/6479173/463765229-db3b3138-49c0-4187-a598-2a433b4e28a0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5ODg4NDYsIm5iZiI6MTc1MTk4ODU0NiwicGF0aCI6Ii82NDc5MTczLzQ2Mzc2NTIyOS1kYjNiMzEzOC00OWMwLTQxODctYTU5OC0yYTQzM2I0ZTI4YTAucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MDhUMTUyOTA2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NGQ1ZjI5YzYwMzQ3NTAwODEyYjVlOWI5YTQwNmY1MTQwOGQ2MjhjYTU3YzM3M2RjZjJmZDUyYjZiMmI3YjcyNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.nLMZP2WHK_pHu_fzmhcPrqjOQL45Teng2_HCKFaphdY" style="width: 300px; height: 300px">
+
+::right::
+
+### 원 앱 솔루션
+[🔗 MLOps App](https://github.com/studyteams/mlops-app/blob/main/README.md)
+
+<img src="https://private-user-images.githubusercontent.com/6479173/463776667-2140b6eb-5573-40bc-b80b-2f3c6ed33432.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTA1OTYsIm5iZiI6MTc1MTk5MDI5NiwicGF0aCI6Ii82NDc5MTczLzQ2Mzc3NjY2Ny0yMTQwYjZlYi01NTczLTQwYmMtYjgwYi0yZjNjNmVkMzM0MzIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MDhUMTU1ODE2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzE2NWE3ZTE1ODM4ZTM4NmUxODgyZTBiZGUxZGJmODYxNTcyMWRjNmM2ZDhjZWVjNDVhZTJhNzNiNGE3NzBjYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.m444EdFMIs7CdAsNl12mwYeU2-ohXFjVpXt1UC9xp7Y" style="width: 400px; height: 400px">
+
+---
+layout: default
+---
+
+# 그래서, 무엇이 필요한가?
+
+<div class="grid grid-cols-2 gap-8">
+<div>
+
+## 🚨 **기존 ML 개발의 문제점**
+
+* **데이터셋 관리**: 버전 관리 없이 파일로만 관리
+* **피처 엔지니어링**: 모델마다 중복 계산, 일관성 부족
+* **모델 버저닝**: 어떤 모델이 최고 성능인지 추적 어려움
+* **자원 할당**: GPU/CPU 사용량 관리 부재
+* **실험 추적**: 파라미터 변경 이력 관리 안됨
+
+</div>
+<div>
+
+## ✅ **MLOps로 해결하는 방법**
+
+* **피처 스토어**: 중앙화된 피처 관리
+* **ETL 파이프라인**: 자동화된 데이터 처리
+* **ML 버저닝**: 모델 아티팩트 버전 관리
+* **관리용 애플리케이션**: 실험 추적 및 모니터링 UI
+* **DevOps**: CI/CD, 자동화, 확장성
+
+</div>
+</div>
+
+<div class="mt-8 text-center">
+  <div class="text-lg font-bold text-blue-600">
+    MLOps = ML + DevOps = <span class="text-red-600">자동화</span> + <span class="text-green-600">확장성</span> + <span class="text-purple-600">재현성</span>
+  </div>
+</div>
+
+---
 layout: default
 ---
 
