@@ -861,14 +861,14 @@ layout: two-cols
 ### DVC 웹앱
 [🔗 DVC App](https://github.com/studyteams/20250709-dvc-app/blob/main/README.md)
 
-<img src="https://private-user-images.githubusercontent.com/6479173/463765229-db3b3138-49c0-4187-a598-2a433b4e28a0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5ODg4NDYsIm5iZiI6MTc1MTk4ODU0NiwicGF0aCI6Ii82NDc5MTczLzQ2Mzc2NTIyOS1kYjNiMzEzOC00OWMwLTQxODctYTU5OC0yYTQzM2I0ZTI4YTAucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MDhUMTUyOTA2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NGQ1ZjI5YzYwMzQ3NTAwODEyYjVlOWI5YTQwNmY1MTQwOGQ2MjhjYTU3YzM3M2RjZjJmZDUyYjZiMmI3YjcyNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.nLMZP2WHK_pHu_fzmhcPrqjOQL45Teng2_HCKFaphdY" style="width: 300px; height: 300px">
+<img src="./img/dvc-app.png" style="width: 300px; height: 300px">
 
 ::right::
 
 ### 원 앱 솔루션
 [🔗 MLOps App](https://github.com/studyteams/mlops-app/blob/main/README.md)
 
-<img src="https://private-user-images.githubusercontent.com/6479173/463776667-2140b6eb-5573-40bc-b80b-2f3c6ed33432.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5OTA1OTYsIm5iZiI6MTc1MTk5MDI5NiwicGF0aCI6Ii82NDc5MTczLzQ2Mzc3NjY2Ny0yMTQwYjZlYi01NTczLTQwYmMtYjgwYi0yZjNjNmVkMzM0MzIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MDhUMTU1ODE2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzE2NWE3ZTE1ODM4ZTM4NmUxODgyZTBiZGUxZGJmODYxNTcyMWRjNmM2ZDhjZWVjNDVhZTJhNzNiNGE3NzBjYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.m444EdFMIs7CdAsNl12mwYeU2-ohXFjVpXt1UC9xp7Y" style="width: 400px; height: 400px">
+<img src="./img/mlops-app-all-in-one.png" style="width: 350px; height: 350px">
 
 ---
 layout: default
