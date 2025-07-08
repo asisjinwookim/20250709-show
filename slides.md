@@ -932,6 +932,16 @@ layout: default
 layout: default
 ---
 
+# 자매품
+
+* [(2025) Airflow Meetup (June)](https://asisjinwookim.notion.site/2025-Airflow-Meetup-June-21917076a7a680bc9f45faad1259c97c): 실무자들의 사례들!
+* [(2025) 책 <두 얼굴의 신기술: AI 딜레마>](https://asisjinwookim.notion.site/2025-AI-22017076a7a680df8e43c5ed92bf8303): AI의 강점과 한계
+* [(2025) 탐지 체계](https://asisjinwookim.notion.site/2025-1b517076a7a680d0b044dcbbfed49b8d): SRE 관점의 데이터 판단
+
+---
+layout: default
+---
+
 # 질문과 답변
 
 <div class="text-center mb-8">
