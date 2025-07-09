@@ -1,17 +1,38 @@
 {
   "name": "20250709-show",
   "version": "1.0.0",
-  "description": "",
+  "description": "태맬옵스: 태어난 김에 MLOps - 핸즈온으로 배우는 MLOps 세션",
   "main": "index.js",
   "scripts": {
     "dev": "slidev --open",
     "build": "slidev build",
-    "export": "slidev export"
+    "export": "slidev export",
+    "export-pdf": "slidev export --format pdf",
+    "export-pptx": "slidev export --format pptx",
+    "preview": "slidev build && slidev preview",
+    "format": "slidev format slides.md"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "mlops",
+    "machine-learning",
+    "kaggle",
+    "mlflow",
+    "feast",
+    "presentation",
+    "slidev",
+    "hands-on"
+  ],
+  "author": "asisjinwookim",
   "license": "ISC",
   "packageManager": "pnpm@10.12.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studyteams/20250709-show.git"
+  },
+  "bugs": {
+    "url": "https://github.com/studyteams/20250709-show/issues"
+  },
+  "homepage": "https://github.com/studyteams/20250709-show#readme",
   "devDependencies": {
     "@slidev/cli": "^52.0.0"
   },
