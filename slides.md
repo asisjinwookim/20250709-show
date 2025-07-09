@@ -123,7 +123,7 @@ layout: default
 <div>
 
 ## Anaconda 설치
-[다운로드 링크](https://www.anaconda.com/download/success)
+[다운로드 링크](https://www.anaconda.com/download/success) (Miniconda CLI 설치)
 
 ## 기본 명령어
 ```sh
